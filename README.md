@@ -45,4 +45,5 @@ Added #to_h feature to all client objects.
 ## Credit
 
 Credit where credit is due:
-I modeled this gem closely after the Instagram API gem [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem).
+This gem is a re-write of the [lending_club](https://github.com/flushentitypacket/lending_club) gem. 
+
